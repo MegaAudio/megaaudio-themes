@@ -5,6 +5,16 @@
             "id": "dark_gold",
             "name": "Dark Gold",
             "file": "themes/dark_gold.json"
+        },
+        {
+            "id": "neon_orange",
+            "name": "Neon Orange",
+            "file": "themes/neon_orange.json"
+        },
+        {
+            "id": "arctic_silver",
+            "name": "Arctic Silver",
+            "file": "themes/arctic_silver.json"
         }
     ]
 }
