@@ -1,0 +1,12 @@
+{
+    "id": "dark_gold",
+    "name": "Dark Gold",
+    "bgColor": "#FF1E1A0B",
+    "bgGradient": "#FF42381A",
+    "glassFill": ["#50FFD54F", "#25FFC107", "#15FF9800", "#30FFD54F"],
+    "glassBorder": ["#80FFE082", "#40FFC107", "#15FF9800", "#30FFD54F"],
+    "glassShine": ["#30FFE082", "#00FFC107"],
+    "textMain": "#FFFFFFFF",
+    "textSub": "#B3FFFFFF",
+    "accent": "#FFFFD54F"
+}
