@@ -1,0 +1,12 @@
+{
+    "id": "neon_orange",
+    "name": "Neon Orange",
+    "bgColor": "#FF1E120B",
+    "bgGradient": "#FF422A1A",
+    "glassFill": ["#50FF6D00", "#25FF5722", "#15E64A19", "#30FF6D00"],
+    "glassBorder": ["#80FF8A65", "#40FF6D00", "#15E64A19", "#30FF6D00"],
+    "glassShine": ["#30FF8A65", "#00FF5722"],
+    "textMain": "#FFFFFFFF",
+    "textSub": "#B3FFFFFF",
+    "accent": "#FFFF8A65"
+}
