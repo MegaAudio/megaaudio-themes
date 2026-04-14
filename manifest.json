@@ -2,16 +2,6 @@
     "version": 1,
     "themes": [
         {
-            "id": "dark_green",
-            "name": "Dark Green",
-            "file": "themes/dark_green.json"
-        },
-        {
-            "id": "dark_purple",
-            "name": "Dark Purple",
-            "file": "themes/dark_purple.json"
-        },
-        {
             "id": "dark_gold",
             "name": "Dark Gold",
             "file": "themes/dark_gold.json"
