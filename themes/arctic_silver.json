@@ -1,0 +1,12 @@
+{
+    "id": "arctic_silver",
+    "name": "Arctic Silver",
+    "bgColor": "#FF1A1A2E",
+    "bgGradient": "#FF2A2A42",
+    "glassFill": ["#50B0BEC5", "#2590A4AE", "#1578909C", "#30B0BEC5"],
+    "glassBorder": ["#80CFD8DC", "#40B0BEC5", "#1578909C", "#30B0BEC5"],
+    "glassShine": ["#30CFD8DC", "#00B0BEC5"],
+    "textMain": "#FFFFFFFF",
+    "textSub": "#B3FFFFFF",
+    "accent": "#FFCFD8DC"
+}
