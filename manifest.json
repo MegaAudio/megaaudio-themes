@@ -1,8 +1,8 @@
 {
     "version": 6,
-    "app_version": "10.1.1",
-    "app_apk_url": "https://raw.githubusercontent.com/MegaAudio/megaaudio-themes/main/updates/app-debug.apk",
-    "changelog": "MA OS 10.1.1 - About screen added, version system",
+    "app_version": "10.1.2",
+    "app_apk_url": "https://raw.githubusercontent.com/MegaAudio/megaaudio-themes/main/updates/hotstar_app.zip",
+    "changelog": "MA OS 10.1.2 - OTA update test",
     "themes": [
         {
             "id": "dark_gold",
