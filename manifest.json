@@ -1,8 +1,8 @@
 {
-    "version": 5,
+    "version": 6,
     "app_version": "2.0",
-    "app_apk_url": "https://raw.githubusercontent.com/MegaAudio/megaaudio-themes/main/updates/test.txt",
-    "changelog": "New test app available via OTA",
+    "app_apk_url": "https://raw.githubusercontent.com/MegaAudio/megaaudio-themes/main/updates/hotstar_app.zip",
+    "changelog": "Hotstar app available via OTA",
     "themes": [
         {
             "id": "dark_gold",
